@@ -1,0 +1,5 @@
+.marscode/
+.trash/
+Thumbs.db
+.DS_Store
+*.sock
